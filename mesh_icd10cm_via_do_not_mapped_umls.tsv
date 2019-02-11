@@ -1,0 +1,228 @@
+DO_ID	DO_name	resource	resource_ID
+DOID:0002116	pterygium	ICD10CM	Hd11.0
+DOID:0002116	pterygium	ICD10CM	H11.00
+DOID:0002116	pterygium	ICD10CM	H11.009
+DOID:0002116	pterygium	MESH	D011625
+DOID:0060573	von Willebrand's disease 1	ICD10CM	D68.0
+DOID:0060573	von Willebrand's disease 1	MESH	D056725
+DOID:0060696	hyperekplexia 1	ICD10CM	G25.8
+DOID:0060696	hyperekplexia 1	MESH	D000071017
+DOID:0060854	autosomal recessive pseudohypoaldosteronism type 1	ICD10CM	N25.8
+DOID:0060854	autosomal recessive pseudohypoaldosteronism type 1	MESH	D011546
+DOID:0060855	autosomal dominant pseudohypoaldosteronism type 1	ICD10CM	N25.8
+DOID:0060855	autosomal dominant pseudohypoaldosteronism type 1	MESH	D011546
+DOID:0060857	septooptic dysplasia	ICD10CM	Q04.8
+DOID:0060857	septooptic dysplasia	MESH	D025962
+DOID:0060877	ichthyosis bullosa of Siemens	ICD10CM	Q80.8
+DOID:0060877	ichthyosis bullosa of Siemens	MESH	D053560
+DOID:0090121	apparent mineralocorticoid excess	ICD10CM	E26.1
+DOID:0090121	apparent mineralocorticoid excess	MESH	C537422
+DOID:0090121	apparent mineralocorticoid excess	MESH	D043204
+DOID:0111054	von Willebrand's disease 3	ICD10CM	D68.0
+DOID:0111054	von Willebrand's disease 3	MESH	D056729
+DOID:10021	duodenum cancer	ICD10CM	C17.0
+DOID:10021	duodenum cancer	MESH	D004379
+DOID:10314	endocarditis	ICD10CM	I33.9
+DOID:10314	endocarditis	MESH	D004696
+DOID:104	bacterial infectious disease	ICD10CM	A49
+DOID:104	bacterial infectious disease	ICD10CM	A49.9
+DOID:104	bacterial infectious disease	MESH	D001424
+DOID:104	bacterial infectious disease	MESH	D016905
+DOID:104	bacterial infectious disease	MESH	D016908
+DOID:10456	tonsillitis	ICD10CM	J35.01
+DOID:10456	tonsillitis	MESH	D014069
+DOID:11103	rickettsialpox	ICD10CM	A79.1
+DOID:11103	rickettsialpox	MESH	D012288
+DOID:11476	osteoporosis	ICD10CM	M81.0
+DOID:11476	osteoporosis	MESH	D010024
+DOID:11476	osteoporosis	MESH	D015663
+DOID:11502	mitral valve insufficiency	ICD10CM	Q23.3
+DOID:11502	mitral valve insufficiency	MESH	D008944
+DOID:11577	Cauda equina syndrome	ICD10CM	G83.4
+DOID:11577	Cauda equina syndrome	MESH	D011128
+DOID:1168	familial hyperlipidemia	ICD10CM	E78.5
+DOID:1168	familial hyperlipidemia	MESH	D006949
+DOID:1168	familial hyperlipidemia	MESH	D006951
+DOID:117	heart cancer	ICD10CM	C38.0
+DOID:117	heart cancer	MESH	D006338
+DOID:11729	Lyme disease	ICD10CM	A69.2
+DOID:11729	Lyme disease	ICD10CM	A69.20
+DOID:11729	Lyme disease	MESH	D008193
+DOID:11729	Lyme disease	MESH	D020852
+DOID:120	female reproductive organ cancer	ICD10CM	C57
+DOID:120	female reproductive organ cancer	MESH	D005833
+DOID:12700	hyperprolactinemia	ICD10CM	E22.1
+DOID:12700	hyperprolactinemia	MESH	D002640
+DOID:12700	hyperprolactinemia	MESH	D006966
+DOID:12759	choroid cancer	ICD10CM	C69.3
+DOID:12759	choroid cancer	MESH	D002830
+DOID:13189	gout	ICD10CM	M10
+DOID:13189	gout	ICD10CM	M10.9
+DOID:13189	gout	MESH	D006073
+DOID:13189	gout	MESH	D015210
+DOID:1343	urethritis	ICD10CM	N34.2
+DOID:1343	urethritis	MESH	D014526
+DOID:1380	endometrial cancer	ICD10CM	C54.1
+DOID:1380	endometrial cancer	MESH	D016889
+DOID:1540	parathyroid carcinoma	ICD10CM	C75.0
+DOID:1540	parathyroid carcinoma	MESH	D010282
+DOID:1596	mental depression	ICD10CM	F32.9
+DOID:1596	mental depression	ICD10CM	F33.9
+DOID:1596	mental depression	MESH	D003863
+DOID:1618	breast fibroadenoma	ICD10CM	D24
+DOID:1618	breast fibroadenoma	MESH	D018226
+DOID:1664	pineoblastoma	MESH	D010871
+DOID:1699	congenital ichthyosiform erythroderma	ICD10CM	Q80.2
+DOID:1699	congenital ichthyosiform erythroderma	MESH	D016113
+DOID:1699	congenital ichthyosiform erythroderma	MESH	D017490
+DOID:170	endocrine gland cancer	ICD10CM	C75.9
+DOID:170	endocrine gland cancer	MESH	D004701
+DOID:1737	duodenal benign neoplasm	MESH	D004379
+DOID:178	vascular disease	ICD10CM	I72.9
+DOID:178	vascular disease	MESH	D000783
+DOID:178	vascular disease	MESH	D014652
+DOID:178	vascular disease	MESH	D020758
+DOID:178	vascular disease	MESH	D020760
+DOID:1781	thyroid cancer	ICD10CM	C73
+DOID:1781	thyroid cancer	MESH	D013964
+DOID:1785	pituitary cancer	ICD10CM	C75.1
+DOID:1785	pituitary cancer	MESH	D010911
+DOID:1858	McCune Albright syndrome	ICD10CM	Q78.1
+DOID:1858	McCune Albright syndrome	MESH	D005357
+DOID:1858	McCune Albright syndrome	MESH	D005359
+DOID:1876	sexual dysfunction	ICD10CM	F52.9
+DOID:1876	sexual dysfunction	ICD10CM	R37
+DOID:1876	sexual dysfunction	MESH	D012735
+DOID:1963	fallopian tube carcinoma	MESH	D005185
+DOID:1964	fallopian tube cancer	ICD10CM	C57.0
+DOID:1964	fallopian tube cancer	MESH	D005185
+DOID:1984	rectal neoplasm	MESH	D012004
+DOID:1993	rectum cancer	ICD10CM	C20
+DOID:1993	rectum cancer	MESH	D012004
+DOID:2275	pharyngitis	ICD10CM	J02
+DOID:2275	pharyngitis	ICD10CM	J02.9
+DOID:2275	pharyngitis	MESH	D010608
+DOID:2275	pharyngitis	MESH	D010612
+DOID:2338	mandibular cancer	ICD10CM	C41.1
+DOID:2338	mandibular cancer	MESH	D008339
+DOID:2508	Takayasu's arteritis	ICD10CM	M31.4
+DOID:2508	Takayasu's arteritis	MESH	D001015
+DOID:2508	Takayasu's arteritis	MESH	D013625
+DOID:263	kidney cancer	ICD10CM	C64
+DOID:263	kidney cancer	MESH	D007680
+DOID:2843	long QT syndrome	ICD10CM	I45.81
+DOID:2843	long QT syndrome	MESH	D008133
+DOID:2843	long QT syndrome	MESH	D029597
+DOID:2871	endometrial carcinoma	MESH	D016889
+DOID:2871	endometrial carcinoma	MESH	D018269
+DOID:2891	thyroid adenoma	MESH	D013964
+DOID:2952	inner ear disease	ICD10CM	H80-H83
+DOID:2952	inner ear disease	ICD10CM	H83.9
+DOID:2952	inner ear disease	ICD10CM	H83.90
+DOID:2952	inner ear disease	MESH	D007759
+DOID:3108	ascaridiasis	ICD10CM	B77
+DOID:3108	ascaridiasis	MESH	D001198
+DOID:3119	gastrointestinal system cancer	ICD10CM	C26.9
+DOID:3119	gastrointestinal system cancer	MESH	D004067
+DOID:3119	gastrointestinal system cancer	MESH	D005770
+DOID:3210	Pelizaeus-Merzbacher disease	ICD10CM	E75.2
+DOID:3210	Pelizaeus-Merzbacher disease	MESH	D020371
+DOID:3315	lipoma	ICD10CM	D17
+DOID:3315	lipoma	ICD10CM	D17.9
+DOID:3315	lipoma	MESH	D008067
+DOID:3315	lipoma	MESH	D018205
+DOID:3390	palmoplantar keratosis	ICD10CM	L85.2
+DOID:3390	palmoplantar keratosis	MESH	D007645
+DOID:3541	cerebral ventricle cancer	ICD10CM	C71.5
+DOID:3541	cerebral ventricle cancer	MESH	D002551
+DOID:3587	pancreatic ductal carcinoma	ICD10CM	C25.3
+DOID:3587	pancreatic ductal carcinoma	MESH	D021441
+DOID:3620	central nervous system cancer	ICD10CM	C72.9
+DOID:3620	central nervous system cancer	MESH	D016543
+DOID:3829	pituitary adenoma	MESH	D010911
+DOID:3856	male reproductive organ cancer	ICD10CM	C60-C63
+DOID:3856	male reproductive organ cancer	ICD10CM	C63.9
+DOID:3856	male reproductive organ cancer	MESH	D005834
+DOID:3875	thrombophlebitis	ICD10CM	I80.0
+DOID:3875	thrombophlebitis	MESH	D013924
+DOID:3908	non-small cell lung carcinoma	ICD10CM	C34
+DOID:3908	non-small cell lung carcinoma	MESH	D002289
+DOID:3963	thyroid carcinoma	MESH	D013964
+DOID:4045	muscle cancer	ICD10CM	C49
+DOID:4045	muscle cancer	MESH	D009217
+DOID:4045	muscle cancer	MESH	D019042
+DOID:4143	orbital cancer	ICD10CM	C69.6
+DOID:4143	orbital cancer	MESH	D009918
+DOID:4203	brain stem cancer	ICD10CM	C71.7
+DOID:4203	brain stem cancer	MESH	D020295
+DOID:4307	polyradiculopathy	MESH	D011128
+DOID:4362	cervical cancer	ICD10CM	C53
+DOID:4362	cervical cancer	ICD10CM	C53.9
+DOID:4362	cervical cancer	MESH	D002583
+DOID:4367	apparent mineralocorticoid excess syndrome	MESH	D043204
+DOID:4479	pseudohypoaldosteronism	MESH	D011546
+DOID:4606	bile duct cancer	ICD10CM	C24.0
+DOID:4606	bile duct cancer	MESH	D001650
+DOID:480	movement disease	MESH	D009069
+DOID:4889	lymph node tuberculosis	ICD10CM	A18.2
+DOID:4889	lymph node tuberculosis	MESH	D014388
+DOID:4889	lymph node tuberculosis	MESH	D018601
+DOID:4897	bile duct carcinoma	MESH	D001650
+DOID:4916	pituitary carcinoma	MESH	D010911
+DOID:5032	pineal gland cancer	ICD10CM	C75.3
+DOID:5032	pineal gland cancer	MESH	D010871
+DOID:5093	thoracic cancer	ICD10CM	C76.1
+DOID:5093	thoracic cancer	MESH	D013899
+DOID:5158	pleural cancer	ICD10CM	C38.4
+DOID:5158	pleural cancer	MESH	D010997
+DOID:543	dystonia	ICD10CM	G24
+DOID:543	dystonia	ICD10CM	G24.9
+DOID:543	dystonia	MESH	D004421
+DOID:543	dystonia	MESH	D020821
+DOID:5467	conjunctival cancer	ICD10CM	C69.0
+DOID:5467	conjunctival cancer	MESH	D003230
+DOID:5612	spinal cancer	ICD10CM	C72.0
+DOID:5612	spinal cancer	MESH	D013120
+DOID:5612	spinal cancer	MESH	D013125
+DOID:5672	large intestine cancer	ICD10CM	C18.9
+DOID:5672	large intestine cancer	MESH	D015179
+DOID:57	aortic valve insufficiency	ICD10CM	I06.1
+DOID:57	aortic valve insufficiency	MESH	D001022
+DOID:5875	retroperitoneal cancer	ICD10CM	C48
+DOID:5875	retroperitoneal cancer	ICD10CM	C48.0
+DOID:5875	retroperitoneal cancer	MESH	D012186
+DOID:6612	leukocyte adhesion deficiency	ICD10CM	D84.8
+DOID:6612	leukocyte adhesion deficiency	MESH	D018370
+DOID:730	urethral benign neoplasm	MESH	D014523
+DOID:734	urethra cancer	ICD10CM	C68.0
+DOID:734	urethra cancer	MESH	D014523
+DOID:7608	parathyroid adenoma	MESH	D010282
+DOID:780	placenta disease	ICD10CM	O43
+DOID:780	placenta disease	ICD10CM	O43.9
+DOID:780	placenta disease	ICD10CM	O43.90
+DOID:780	placenta disease	MESH	D010922
+DOID:780	placenta disease	MESH	D011248
+DOID:8457	pellagra	ICD10CM	E52
+DOID:8457	pellagra	MESH	D010383
+DOID:8725	vascular dementia	ICD10CM	F01
+DOID:8725	vascular dementia	ICD10CM	F01.5
+DOID:8725	vascular dementia	MESH	D015140
+DOID:8725	vascular dementia	MESH	D015161
+DOID:9256	colorectal cancer	MESH	D015179
+DOID:9261	nasopharynx carcinoma	ICD10CM	C11
+DOID:9261	nasopharynx carcinoma	ICD10CM	C11.0
+DOID:9261	nasopharynx carcinoma	ICD10CM	C11.1
+DOID:9261	nasopharynx carcinoma	ICD10CM	C11.2
+DOID:9261	nasopharynx carcinoma	ICD10CM	C11.3
+DOID:9261	nasopharynx carcinoma	ICD10CM	C11.9
+DOID:9261	nasopharynx carcinoma	MESH	D009303
+DOID:9392	tracheitis	ICD10CM	J04.1
+DOID:9392	tracheitis	MESH	D014136
+DOID:9452	fatty liver disease	ICD10CM	K70.0
+DOID:9452	fatty liver disease	MESH	D005234
+DOID:9452	fatty liver disease	MESH	D005235
+DOID:9854	lingual-facial-buccal dyskinesia	ICD10CM	G24.4
+DOID:9854	lingual-facial-buccal dyskinesia	MESH	D009069
+DOID:999	hypereosinophilic syndrome	ICD10CM	D72.1
+DOID:999	hypereosinophilic syndrome	MESH	D004802
+DOID:999	hypereosinophilic syndrome	MESH	D017681
